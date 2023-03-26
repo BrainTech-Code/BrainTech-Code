@@ -1,0 +1,34 @@
+.header{
+    background-color:rgb(9, 1, 21) ;
+    color: white;
+}
+.logo_img{
+    width: 160px;
+    height: 160px;
+    border-radius: 180px;
+}
+.header_1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.nav_ul{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.nav_item{
+    width: fit-content;
+    margin: 8px;
+    padding: 2px;
+}
+.title{
+    width: fit-content;
+    justify-self: center;
+}
+.header_2{
+    justify-content: center;
+    
+}

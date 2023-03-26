@@ -1,0 +1,13 @@
+.header{
+    background-color:rgb(9, 1, 21) ;
+    color: white;
+}
+.logo_img{
+    width: 160px;
+    height: 160px;
+    border-radius: 180px;
+}
+.title{
+    width: fit-content;
+    justify-self: center;
+}
